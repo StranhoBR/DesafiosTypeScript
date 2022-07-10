@@ -1,4 +1,4 @@
 "use strict";
-var idade = 15;
-var nome = 'Paula';
-console.log("nome: " + nome + ", idade: " + idade);
+let idade = 15;
+let nome = 'Paula';
+console.log(`nome: ${nome}, idade: ${idade}`);
